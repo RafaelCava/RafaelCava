@@ -28,7 +28,4 @@
  
 </div>
  
-### Escutando agora 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ziwy1fbyyer480xpancutsedd)
-<br/>
