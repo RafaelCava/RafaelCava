@@ -33,6 +33,9 @@
  
 #
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCava)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ #
+ [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ziwy1fbyyer480xpancutsedd)
 
  
 
