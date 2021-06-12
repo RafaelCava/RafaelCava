@@ -13,7 +13,7 @@
  <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 </div>
   
-  ##
+## Linguagens de Programação
  
 <div> 
   <a href="https://instagram.com/faeldabike" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
