@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/RafaelCava">
 </div>
- <h5>Linguagens de Programção</h1>
+ <h4>Linguagens de Programação</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -13,7 +13,7 @@
  <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 </div>
  
- <h5>Softwares</h5>
+ <h4>Softwares</h4>
  <div style="display: inline-block"><br>
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   
@@ -27,3 +27,8 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+### Escutando agora 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ziwy1fbyyer480xpancutsedd)
+<br/>
