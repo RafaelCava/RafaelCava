@@ -25,6 +25,7 @@
   <img align="center" alt="firebase" width="40" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" />
   <img align="center" alt="wordpress" width="40" height="40" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38759/preview.svg" />
   <img align="center" alt="elementor" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" />
+  <img align="center" alt="woocommerce" width="40" src="https://www.logolynx.com/images/logolynx/f7/f785bb835ec5f430b84f6f552b8bf1b6.png" />
  </div><br>
  <br>
 <div style="display: inline-block"><br> 
