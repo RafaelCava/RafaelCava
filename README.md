@@ -11,9 +11,9 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a align="center" href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a>
  <img align="center" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
- <img align="center" alt="sass" width="26px" src"" />
+ <img align="center" alt="sass" width="26px" src"https://rstudio.github.io/sass/reference/figures/logo.svg" />
 </div>
- ![image](https://user-images.githubusercontent.com/82680356/122129263-3475d900-ce0c-11eb-9d14-f4fd8a863303.png)
+ 
 
  
  <h4>Softwares</h4>
