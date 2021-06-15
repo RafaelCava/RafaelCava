@@ -11,7 +11,7 @@
  <img align="center" width="40" height="30" alt="Sass" src="https://rawgit.com/sass/sass-site/master/source/assets/img/logos/logo.svg" /> 
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="git" width="40" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
- <img align="center" alt="GitHub" width="40" height="30" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+ <img align="center" alt="GitHub" width="40" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 </div>
  
 
