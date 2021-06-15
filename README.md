@@ -24,7 +24,7 @@
   <img align="center" alt="Node.js" width="40" height"40" src="https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg" />
   <img align="center" alt="firebase" width="40" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" />
   <img align="center" alt="wordpress" width="40" height="40" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38759/preview.svg" />
-  <img align="center" alt="elementor" width="40" src="https://iconape.com/wp-content/files/gj/11489/png/elementor.png" />
+  <img align="center" alt="elementor" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" />
  </div><br>
  <br>
 <div style="display: inline-block"><br> 
