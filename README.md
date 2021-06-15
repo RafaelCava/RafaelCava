@@ -23,6 +23,7 @@
   <img align="center" alt="xampp" width="40" height="30" src="https://cdn.worldvectorlogo.com/logos/xampp.svg" />
   <img align="center" alt="Node.js" width="40" height"30" src="https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg" />
   <img align="center" alt="firebase" width="40" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" />
+  <img align="center" alt="wordpress" width"40" src"https://image.flaticon.com/icons/png/512/174/174881.png" />
  </div><br>
  <br>
 <div style="display: inline-block"><br> 
