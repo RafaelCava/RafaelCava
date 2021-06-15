@@ -21,6 +21,7 @@
   <img align="center" alt="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="center" alt="xampp" width="40" height="30" src="https://cdn.worldvectorlogo.com/logos/xampp.svg" />
   <img align="center" alt="Node.js" width="40" height"30" src="https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg" />
+  <img align="center" alt="firebase" width="40" src="https://img2.gratispng.com/20180417/pse/kisspng-firebase-cloud-messaging-computer-icons-google-clo-github-5ad5d3ce239cb6.8525231615239628301459.jpg" />
  </div><br>
  <br>
 <div style="display: inline-block"><br> 
