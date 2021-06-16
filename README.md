@@ -33,6 +33,7 @@
   <img align="center" alt="woocommerce" width="60" src="https://www.logolynx.com/images/logolynx/f7/f785bb835ec5f430b84f6f552b8bf1b6.png" />
  </div><br>
  <br>
+# Redes sociais 
 <div style="display: inline-block"><br> 
   <a href="https://instagram.com/faeldabike" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: jogosmaneiros.rafael@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
