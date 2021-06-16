@@ -19,7 +19,7 @@
  
 ## Softwares
  <div style="display: inline-block"><br>
-  <img align="center" alt="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="center" alt="Visual Studio Code" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="center" alt="xampp" width="60" src="https://cdn.worldvectorlogo.com/logos/xampp.svg" />
   <img align="center" alt="Node.js" width="60" src="https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg" />
   <img align="center" alt="firebase" width="60" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" />
