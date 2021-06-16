@@ -13,19 +13,19 @@
  <img align="center" width="60" alt="Sass" src="https://rawgit.com/sass/sass-site/master/source/assets/img/logos/logo.svg" /> 
  <img align="center" alt="git" width="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
  <img align="center" alt="GitHub" width="60" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
- <img align="center" alt="php" width="60" src="https://www.php.net//images/logos/new-php-logo.svg" />
+ <img align="center" alt="php" width="80" src="https://www.php.net//images/logos/new-php-logo.svg" />
  <img align="center" alt="mysql" width="60" src="https://planet.mysql.com/images/planet-logo.svg" />
 </div>
  
 ## Softwares
  <div style="display: inline-block"><br>
   <img align="center" alt="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="center" alt="xampp" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/xampp.svg" />
-  <img align="center" alt="Node.js" width="40" height"40" src="https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg" />
-  <img align="center" alt="firebase" width="40" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" />
-  <img align="center" alt="wordpress" width="40" height="40" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38759/preview.svg" />
-  <img align="center" alt="elementor" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" />
-  <img align="center" alt="woocommerce" width="40" src="https://www.logolynx.com/images/logolynx/f7/f785bb835ec5f430b84f6f552b8bf1b6.png" />
+  <img align="center" alt="xampp" width="60" src="https://cdn.worldvectorlogo.com/logos/xampp.svg" />
+  <img align="center" alt="Node.js" width="60" src="https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg" />
+  <img align="center" alt="firebase" width="60" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" />
+  <img align="center" alt="wordpress" width="60" height="40" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38759/preview.svg" />
+  <img align="center" alt="elementor" width="60" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" />
+  <img align="center" alt="woocommerce" width="60" src="https://www.logolynx.com/images/logolynx/f7/f785bb835ec5f430b84f6f552b8bf1b6.png" />
  </div><br>
  <br>
 <div style="display: inline-block"><br> 
