@@ -30,8 +30,8 @@
   <a href = "mailto: jogosmaneiros.rafael@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-cavalcante-148a54143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-# Formação Acadêmica
- <img align="center" width="40" src="https://cubos.io/marca-cubosacademy.4a9e1907.svg" alt="cubos academy" 
+#Formação Acadêmica
+ <img align="center" width="40" src="https://cubos.io/marca-cubosacademy.4a9e1907.svg" alt="cubos academy" />
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
