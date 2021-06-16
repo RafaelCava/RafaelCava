@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/RafaelCava">
 </div>
- <h4>Linguagens de Programação</h4>
+# Linguagens de Programação
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -14,7 +14,7 @@
  <img align="center" alt="php" width="40" src="https://www.php.net//images/logos/new-php-logo.svg" />
 </div>
  
- <h4>Softwares</h4>
+# Softwares
  <div style="display: inline-block"><br>
   <img align="center" alt="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="center" alt="xampp" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/xampp.svg" />
