@@ -35,6 +35,7 @@
  
 # Formação Acadêmica
  <img align="center" width="80" src="https://cubos.io/marca-cubosacademy.4a9e1907.svg" alt="cubos academy" />
+ <img align="center" width="80" src="https://cursos.dankicode.com/app/Views/public/images/danki_logo.png" />
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
