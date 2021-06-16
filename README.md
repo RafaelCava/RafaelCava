@@ -1,9 +1,9 @@
-## Olá! Eu sou o Rafael Cavalcante 
+# Olá! Eu sou o Rafael Cavalcante 
  <div>
   <a href="https://github.com/RafaelCava">
 </div>
  
-# Linguagens de Programação
+## Linguagens de Programação
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +17,7 @@
  <img align="center" alt="mysql" width="40" src="https://planet.mysql.com/images/planet-logo.svg" />
 </div>
  
-# Softwares
+## Softwares
  <div style="display: inline-block"><br>
   <img align="center" alt="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="center" alt="xampp" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/xampp.svg" />
@@ -33,7 +33,7 @@
   <a href = "mailto: jogosmaneiros.rafael@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-cavalcante-148a54143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-# Formação Acadêmica
+## Formação Acadêmica
  <img align="center" width="80" src="https://cubos.io/marca-cubosacademy.4a9e1907.svg" alt="cubos academy" />
  <img align="center" width="120" src="https://cursos.dankicode.com/app/Views/public/images/danki_logo.png" />
  
