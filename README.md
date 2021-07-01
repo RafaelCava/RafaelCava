@@ -6,6 +6,7 @@
 ## Tecnologias
  
  <div style="display: inline_block"><br>
+  <img align="center" alt="mongoDB" width="60" src="https://img.icons8.com/color/452/mongodb.png" />
   <img align="center" alt="mysql" width="60" src="https://planet.mysql.com/images/planet-logo.svg" />
   <img align="center" alt="Rafa-HTML" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
