@@ -13,13 +13,13 @@
   <img align="center" width="60" alt="Sass" src="https://rawgit.com/sass/sass-site/master/source/assets/img/logos/logo.svg" /> 
   <img align="center" alt="git" width="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
   <img align="center" alt="GitHub" width="60" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+  <img align="center" alt="Rafa-React" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  </div>
  
 ## Linguagens de Programação
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="php" width="80" src="https://www.php.net//images/logos/new-php-logo.svg" />
 </div>
  
