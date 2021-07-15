@@ -1,4 +1,4 @@
-# Olá! Eu sou o Rafael Cavalcante  [![wakatime](https://wakatime.com/badge/github/RafaelCava/Next.js.svg)](https://wakatime.com/badge/github/RafaelCava/Next.js)
+# Olá! Eu sou o Rafael Cavalcante  [![wakatime](https://wakatime.com/badge/github/RafaelCava/Next.js.svg)](https://wakatime.com/badge/github/RafaelCava/Next.js) [![wakatime](https://wakatime.com/badge/github/RafaelCava/RafaelCava.svg)](https://wakatime.com/badge/github/RafaelCava/RafaelCava)
  <div>
   <a href="https://github.com/RafaelCava">
 </div>
