@@ -59,6 +59,8 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=relogio_js&show_owner=true)](https://github.com/RafaelCava/relogio_js)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=nextjs&show_owner=true)](https://github.com/RafaelCava/nextjs)
  
+ [![wakatime](https://wakatime.com/badge/github/RafaelCava/Next.js.svg)](https://wakatime.com/badge/github/RafaelCava/Next.js)
+ 
 # Portfólio
  [Portfolio Vercel](http://impacttecnologia.online/)
  
