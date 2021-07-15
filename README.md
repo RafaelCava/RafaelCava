@@ -1,4 +1,4 @@
-# Olá! Eu sou o Rafael Cavalcante 
+# Olá! Eu sou o Rafael Cavalcante  [![wakatime](https://wakatime.com/badge/github/RafaelCava/Next.js.svg)](https://wakatime.com/badge/github/RafaelCava/Next.js)
  <div>
   <a href="https://github.com/RafaelCava">
 </div>
@@ -58,8 +58,6 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=landing_page&show_owner=true)](https://github.com/RafaelCava/landing_page)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=relogio_js&show_owner=true)](https://github.com/RafaelCava/relogio_js)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=nextjs&show_owner=true)](https://github.com/RafaelCava/nextjs)
- 
- [![wakatime](https://wakatime.com/badge/github/RafaelCava/Next.js.svg)](https://wakatime.com/badge/github/RafaelCava/Next.js)
  
 # Portfólio
  [Portfolio Vercel](http://impacttecnologia.online/)
