@@ -7,8 +7,7 @@
 
 <details>
   <summary>Click for read more</summary>
-</details>
-
+  
 ## Tecnologias
  
  <div style="display: inline_block"><br>
@@ -21,6 +20,8 @@
   <img align="center" alt="GitHub" width="60" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
   <img align="center" alt="Rafa-React" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  </div>
+</details>
+
  
 ## Linguagens de Programação
  
