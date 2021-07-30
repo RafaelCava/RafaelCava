@@ -1,4 +1,6 @@
-# Olá! Eu sou o Rafael Cavalcante  [![wakatime](https://wakatime.com/badge/github/RafaelCava/Next.js.svg)](https://wakatime.com/badge/github/RafaelCava/Next.js) [![wakatime](https://wakatime.com/badge/github/RafaelCava/RafaelCava.svg)](https://wakatime.com/badge/github/RafaelCava/RafaelCava)
+<div style='text-align: center'>
+ <h1>Olá! Eu sou o Rafael Cavalcante</h1>
+</div>
  <div>
   <a href="https://github.com/RafaelCava">
 </div>
