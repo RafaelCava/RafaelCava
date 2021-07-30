@@ -5,6 +5,10 @@
   <a href="https://github.com/RafaelCava">
 </div>
 
+<details>
+  <summary>Click for read more</summary>
+</details>
+
 ## Tecnologias
  
  <div style="display: inline_block"><br>
