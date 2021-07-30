@@ -46,12 +46,10 @@
 ## Formação Acadêmica
  <img align="center" width="80" src="https://cubos.io/marca-cubosacademy.4a9e1907.svg" alt="cubos academy" />
  <img align="center" width="120" src="https://cursos.dankicode.com/app/Views/public/images/danki_logo.png" />
+ 
  <div align="center">
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- 
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelCava&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
  
