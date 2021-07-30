@@ -6,8 +6,8 @@
 </div>
 
 <details>
-  <summary>Click for read more</summary>
-  
+<summary>Click for read more</summary>
+
 ## Tecnologias
  
  <div style="display: inline_block"><br>
