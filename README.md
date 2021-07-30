@@ -6,7 +6,6 @@
 </div>
 
 <details>
-<summary>Click for read more</summary>
 
 ## Tecnologias
  
@@ -20,8 +19,6 @@
   <img align="center" alt="GitHub" width="60" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
   <img align="center" alt="Rafa-React" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  </div>
-</details>
-
  
 ## Linguagens de Programação
  
@@ -51,19 +48,23 @@
 ## Formação Acadêmica
  <img align="center" width="80" src="https://cubos.io/marca-cubosacademy.4a9e1907.svg" alt="cubos academy" />
  <img align="center" width="120" src="https://cursos.dankicode.com/app/Views/public/images/danki_logo.png" />
+
+ [![Wakatime](https://wakatime.com/share/@bbe123b1-e55a-4764-b05b-ef53394499b1/3091a5e6-ca43-4960-9a81-0ff47bdaccf5.png)](https://wakatime.com/)
+
+</details>
+
+ 
  
  <div align="center">
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelCava&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCava)](https://github.com/anuraghazra/github-readme-stats)
+
 #
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=landing_page&show_owner=true)](https://github.com/RafaelCava/landing_page)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=nextjs&show_owner=true)](https://github.com/RafaelCava/nextjs)
-#
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCava)](https://github.com/anuraghazra/github-readme-stats)
- [![Wakatime](https://wakatime.com/share/@bbe123b1-e55a-4764-b05b-ef53394499b1/3091a5e6-ca43-4960-9a81-0ff47bdaccf5.png)](https://wakatime.com/)
  
  </div>
  
