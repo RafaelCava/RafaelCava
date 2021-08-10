@@ -1,10 +1,10 @@
-<div align="center">
+<div>
+  <img src='https://share-cdn.picrew.me/shareImg/org/202108/51747_Zwrwy09g.png' align="left" width="200" alt="img"/>
  <h1>Olá! Eu sou o Rafael Cavalcante</h1>
 </div>
  <div>
   <a href="https://github.com/RafaelCava">
 </div>
-
 <details>
 
 ## Tecnologias
@@ -53,14 +53,12 @@
 
 </details>
 
- 
+#
  
  <div align="center">
   
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelCava&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCava)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelCava&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCava)](https://github.com/anuraghazra/github-readme-stats)
 
 #
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=landing_page&show_owner=true)](https://github.com/RafaelCava/landing_page)
