@@ -74,7 +74,9 @@
 #
    
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=landing_page&show_owner=true)](https://github.com/RafaelCava/landing_page)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=nextjs&show_owner=true)](https://github.com/RafaelCava/nextjs)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=api-crud&show_owner=true)](https://github.com/RafaelCava/api-crud)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=Hostinger-portfolio&show_owner=true)](https://github.com/RafaelCava/Hostinger-portfolio)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=Instagram_clone&show_owner=true)](https://github.com/RafaelCava/Instagram_clone)
  
  </div>
  
@@ -85,5 +87,9 @@
  [Portfolio](http://portfolio-rafael.site)
    
  [Portfolio Vercel](http://impacttecnologia.online/)
+   
+ [TodoApp](https://todolist-f3156.web.app/)
+   
+ [Instagram Clone](https://instagram-clone-17c8f.web.app/)
    
  </div>
