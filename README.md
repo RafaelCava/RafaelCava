@@ -1,7 +1,7 @@
 <div>
-  <img src='https://share-cdn.picrew.me/shareImg/org/202108/51747_Zwrwy09g.png' align="left" width="300" alt="img"/>
+  <img src='./assets/fotoRafael.jpg' align="left" width="100" alt="img"
  <h1>Olá! Eu sou o Rafael Cavalcante</h1>
-  <ul>
+  <ul style="list-style-type: none; margin-left: 20px;">
     <li>Possuo fortes conhecimentos em Front end usando JavaScript, HTML5, Sass e Less, React, Vue e Angular</li>
     <li>No Back end eu domino Node.js e criação de Apis REST usando Express.js, e possuo uma base com Next.js, PHP, Java, C</li>
     <li>De Banco de Dados tenho experiência com MariaDB, MySQL, PostgreSQL, MongoDB e Firebase cloud</li>
