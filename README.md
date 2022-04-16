@@ -12,6 +12,11 @@
  <div>
   <a href="https://github.com/RafaelCava">
 </div>
+
+
+![Contribution Graph](https://raw.githubusercontent.com/RafaelCava/RafaelCava/main/assets/snake.svg)
+
+
 <details>
 
 ## Tecnologias
