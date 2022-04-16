@@ -14,7 +14,7 @@
 </div>
 
 
-![Contribution Graph](https://raw.githubusercontent.com/RafaelCava/RafaelCava/main/assets/snake.svg)
+![Contribution Graph](https://raw.githubusercontent.com/RafaelCava/RafaelCava/main/assets/snake.gif)
 
 
 <details>
