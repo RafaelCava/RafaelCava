@@ -85,11 +85,7 @@
  
  [Alura Tracker](https://github.com/RafaelCava/alura-tracker)  
    
- [Portfolio](http://portfolio-rafael.site)
-   
  [Api-Express-Typescript](https://api-types-rafael.herokuapp.com/docs/)
-   
- [Portfolio Vercel](http://impacttecnologia.online/)
    
  [TodoApp](https://todolist-f3156.web.app/)
    
