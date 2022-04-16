@@ -72,10 +72,9 @@
    </div>
    
 #
-   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=alura-tracker&show_owner=true)](https://github.com/RafaelCava/alura-tracker)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=landing_page&show_owner=true)](https://github.com/RafaelCava/landing_page)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=api-crud-mongo&show_owner=true)](https://github.com/RafaelCava/api-crud-mongo)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=Hostinger-portfolio&show_owner=true)](https://github.com/RafaelCava/Hostinger-portfolio)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=Instagram_clone&show_owner=true)](https://github.com/RafaelCava/Instagram_clone)
  
  </div>
@@ -84,6 +83,8 @@
   
 # Portfólio
  
+ [Alura Tracker](https://github.com/RafaelCava/alura-tracker)  
+   
  [Portfolio](http://portfolio-rafael.site)
    
  [Api-Express-Typescript](https://api-types-rafael.herokuapp.com/docs/)
