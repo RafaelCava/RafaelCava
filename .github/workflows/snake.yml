@@ -16,9 +16,9 @@ jobs:
       - name: Generate snakes
         uses: Platane/snk@master
         with:
-          github_user_name: ryanccn
+          github_user_name: RafaelCava
           # gif_out_path: images/snake.gif
-          svg_out_path: images/snake.svg
+          svg_out_path: assets/snake.svg
 
       - name: Commit & Push changes
         uses: actions-js/push@master
