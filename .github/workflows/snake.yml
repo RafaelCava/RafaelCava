@@ -1,0 +1,28 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "30 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      
+      - name: Generate snakes
+        uses: Platane/snk@master
+        with:
+          github_user_name: ryanccn
+          # gif_out_path: images/snake.gif
+          svg_out_path: images/snake.svg
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          author_name: "snk [bot]"
+          message: "chore[automated]: update snake"
