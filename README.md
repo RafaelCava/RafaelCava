@@ -2,11 +2,12 @@
   <img src='./assets/fotoRafael.jpg' align="left" width="100" alt="img"
  <h1>Olá! Eu sou o Rafael Cavalcante</h1>
   <ul style="list-style-type: none; margin-left: 20px;">
-    <li>Possuo fortes conhecimentos em Front end usando JavaScript, HTML5, Sass e Less, React, Vue e Angular</li>
-    <li>No Back end eu domino Node.js e criação de Apis REST usando Express.js, e possuo uma base com Next.js, PHP, Java, C</li>
+    <li>Possuo fortes conhecimentos em Front end usando JavaScript, HTML5, Sass e Less, React e Vue</li>
+    <li>No Back end eu domino Node.js e criação de Apis REST usando Express.js e Nest.js, e possuo uma base com Next.js, PHP, Java, C</li>
+    <li>Na preparação de ambiente utilizo bastante Docker e Kubernetes</li>
     <li>De Banco de Dados tenho experiência com MariaDB, MySQL, PostgreSQL, MongoDB e Firebase cloud</li>
     <li>Possuo conhecimentos em Scrum e estrutura de dados</li>
-    <li>E estou estudando: Wordpress, Woocommerce, Firebase, React-native, Kotlin, Docker</li>
+    <li>E estou estudando: Wordpress, Woocommerce, Firebase, React-native e Kotlin</li>
   </ul>
 </div>
  <div>
@@ -59,9 +60,9 @@
  
 ## Formação Acadêmica
  <img align="center" width="80" src="https://cubos.io/marca-cubosacademy.4a9e1907.svg" alt="cubos academy" />
- <img align="center" width="120" src="https://cursos.dankicode.com/app/Views/public/images/danki_logo.png" />
+ <img align="center" width="120" src="https://cursos.dankicode.com/app/Views/public/images/danki_logo.png" alt="Danki code" />
+ <img align="center" width="80" src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" alt="Alura" />
 
- [![Wakatime](https://wakatime.com/share/@bbe123b1-e55a-4764-b05b-ef53394499b1/3091a5e6-ca43-4960-9a81-0ff47bdaccf5.png)](https://wakatime.com/)
 
 </details>
 
