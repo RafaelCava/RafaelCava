@@ -66,24 +66,24 @@
 
 </details>
 
-#
+<!-- # -->
  
- <div align="center">
+ <!-- <div align="center">
   
 <div style="display: flex; justify-content: center; align-itens: center">
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelCava&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCava&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
-   </div>
+   </div> -->
    
-#
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=alura-tracker&show_owner=true)](https://github.com/RafaelCava/alura-tracker)
+<!-- # -->
+  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=alura-tracker&show_owner=true)](https://github.com/RafaelCava/alura-tracker)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=landing_page&show_owner=true)](https://github.com/RafaelCava/landing_page)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=api-crud-mongo&show_owner=true)](https://github.com/RafaelCava/api-crud-mongo)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=Instagram_clone&show_owner=true)](https://github.com/RafaelCava/Instagram_clone)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=Instagram_clone&show_owner=true)](https://github.com/RafaelCava/Instagram_clone) -->
  
- </div>
+ <!-- </div> -->
  
  <div align="center">
   
@@ -96,5 +96,9 @@
  [TodoApp](https://todolist-f3156.web.app/)
    
  [Instagram Clone](https://instagram-clone-17c8f.web.app/)
+
+ [Clean Node Types](https://clean-node-api-docker.onrender.com/api-docs)
+
+ [Devlos-cli](https://github.com/RafaelCava/devlos-cli)
    
  </div>
