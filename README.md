@@ -1,90 +1,29 @@
 <div>
-  <img src='./assets/fotoRafael.jpg' align="left" width="100" alt="img"
- <h1>Olá! Eu sou o Rafael Cavalcante</h1>
-  <ul style="list-style-type: none; margin-left: 20px;">
-    <li>Possuo fortes conhecimentos em Front end usando JavaScript, HTML5, Sass e Less, React e Vue</li>
-    <li>No Back end eu domino Node.js e criação de Apis REST usando Express.js e Nest.js, e possuo uma base com Next.js, PHP, Java, C</li>
-    <li>Na preparação de ambiente utilizo bastante Docker e Kubernetes</li>
-    <li>De Banco de Dados tenho experiência com MariaDB, MySQL, PostgreSQL, MongoDB e Firebase cloud</li>
-    <li>Possuo conhecimentos em Scrum e estrutura de dados</li>
-    <li>E estou estudando: Wordpress, Woocommerce, Firebase, React-native e Kotlin</li>
-  </ul>
-</div>
- <div>
-  <a href="https://github.com/RafaelCava">
+  <p>
+    Hey there, folks! I'm Rafael Cavalcante, a Fullstack developer who loves codes and good laughs! With 2 years of experience under my belt, I can say I've pulled off some coding mischief, always aiming to make people's lives easier and more enjoyable.
+
+    My English may not be Hollywood-level, but I'm constantly improving it because mastering the language of machines is as important as mastering foreign tongues.
+
+    My stack? It's envy-worthy! I'm like a maestro conducting an orchestra of incredible technologies. JavaScript and TypeScript are my partners in crime, and together we create symphonies of amazing applications. With Docker, Node, and Kubernetes, I work magic on servers, and my dance with databases includes MongoDB, PostgreSQL, and MySQL.
+
+    CI/CD is my favorite dance move, and with Jenkins and GitHub Actions, my projects always have a smooth and secure rhythm. To add that touch of excitement to frontend projects, I rely on Vue and React to slay on the dance floor.
+
+    And how about a pinch of observability? I love ELK and OpenTelemetry, which give me full visibility into what's happening behind the scenes of the system.
+
+    Oh, and I can't forget Keycloak, my valuable ally in securing systems and safeguarding data.
+
+    I get my heart racing with architectural challenges, which is why I'm a big fan of Clean Arch, TDD, and DDD. With these practices, my projects are true masterpieces, easy to maintain and extend.
+
+    As a devoted father, I also dedicate part of my time to my greatest treasure: my son. Teaching him the importance of knowledge and creativity is my mission, just like impacting many other people's lives positively.
+
+    And to make things even more fun, I'm diving headfirst into the world of React Native, GoLang, and Python. Who knows what surprising new projects are coming our way?
+
+    Anyway, that's my story so far, but the best is yet to come. I'm excited to share my creations, adventures, and learnings with you here on GitHub. Let's join forces to take technology to the next level and spread smiles wherever we go! And remember, no matter the form, what matters is leaving a positive impact on people's lives! 😉
+  </p>
 </div>
 
 
 ![Contribution Graph](https://raw.githubusercontent.com/RafaelCava/RafaelCava/main/assets/snake.svg)
-
-
-<details>
-
-## Tecnologias
- 
- <div style="display: inline_block"><br>
-  <img align="center" alt="mongoDB" width="60" src="https://img.icons8.com/color/452/mongodb.png" />
-  <img align="center" alt="mysql" width="60" src="https://planet.mysql.com/images/planet-logo.svg" />
-  <img align="center" alt="Rafa-HTML" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" width="60" alt="Sass" src="https://rawgit.com/sass/sass-site/master/source/assets/img/logos/logo.svg" /> 
-  <img align="center" alt="git" width="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-  <img align="center" alt="GitHub" width="60" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-  <img align="center" alt="Rafa-React" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- </div>
- 
-## Linguagens de Programação
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="php" width="80" src="https://www.php.net//images/logos/new-php-logo.svg" />
-  <img align="center" alt="typerscript" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" />
-</div>
- 
-## Softwares
- <div style="display: inline-block"><br>
-  <img align="center" alt="Visual Studio Code" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="center" alt="xampp" width="60" src="https://cdn.worldvectorlogo.com/logos/xampp.svg" />
-  <img align="center" alt="Node.js" width="60" src="https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg" />
-  <img align="center" alt="firebase" width="60" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" />
-  <img align="center" alt="wordpress" width="60" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38759/preview.svg" />
-  <img align="center" alt="elementor" width="60" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" />
-  <img align="center" alt="woocommerce" width="60" src="https://www.logolynx.com/images/logolynx/f7/f785bb835ec5f430b84f6f552b8bf1b6.png" />
- </div><br>
- <br>
- 
-## Redes sociais 
-<div style="display: inline-block"><br> 
-  <a href = "mailto: jogosmaneiros.rafael@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-cavalcante-148a54143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-## Formação Acadêmica
- <img align="center" width="80" src="https://cubos.io/marca-cubosacademy.4a9e1907.svg" alt="cubos academy" />
- <img align="center" width="120" src="https://cursos.dankicode.com/app/Views/public/images/danki_logo.png" alt="Danki code" />
- <img align="center" width="80" src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" alt="Alura" />
-
-
-</details>
-
-<!-- # -->
- 
- <!-- <div align="center">
-  
-<div style="display: flex; justify-content: center; align-itens: center">
-  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelCava&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCava&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  
-   </div> -->
-   
-<!-- # -->
-  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=alura-tracker&show_owner=true)](https://github.com/RafaelCava/alura-tracker)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=landing_page&show_owner=true)](https://github.com/RafaelCava/landing_page)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=api-crud-mongo&show_owner=true)](https://github.com/RafaelCava/api-crud-mongo)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelCava&repo=Instagram_clone&show_owner=true)](https://github.com/RafaelCava/Instagram_clone) -->
- 
- <!-- </div> -->
- 
  <div align="center">
   
 # Portfólio
