@@ -31,8 +31,6 @@
   </h4>
 </div>
 
-
-![Contribution Graph](https://raw.githubusercontent.com/RafaelCava/RafaelCava/main/assets/snake.svg)
  <div align="center">
   
 # Portfólio
