@@ -1,6 +1,6 @@
 <div>
   <h4>
-    Hey there, folks! I'm Rafael Cavalcante, a Fullstack developer who loves codes and good laughs! With 2 years of experience under my belt, I can say I've pulled off some coding mischief, always aiming to make people's lives easier and more enjoyable.
+    Hey there, folks! I'm Rafael Cavalcante, a Fullstack developer who loves codes and good laughs! With 5 years of experience under my belt, I can say I've pulled off some coding mischief, always aiming to make people's lives easier and more enjoyable.
   </h4>
   <h4>
     My English may not be Hollywood-level, but I'm constantly improving it because mastering the language of machines is as important as mastering foreign tongues.
